@@ -1,13 +1,13 @@
 {
   "name": "core",
   "version": "1.0.0",
-  "description": "Core of QNX framework",
+  "description": "Core of QNE framework",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "QNX",
+    "QNE",
     "framework",
     "core"
   ],
